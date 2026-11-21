@@ -6,10 +6,6 @@ Logbook pessoal de treino: registro de musculação e cardio, progressão de car
 
 Java 21 · Spring Boot · Thymeleaf + HTMX · PostgreSQL · Flyway
 
-## Documentação
-
-- [Planejamento](docs/planejamento.md)
-- [Backlog](docs/backlog.md)
 
 ## Como rodar
 
