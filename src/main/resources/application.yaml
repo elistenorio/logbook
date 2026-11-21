@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: logbook
+  config:
+    import: optional:file:.env[.properties]
+  security:
+    user:
+      name: ${LOGBOOK_USUARIO}
+      password: ${LOGBOOK_SENHA}
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: validate
+    properties:
+      hibernate:
+        jdbc:
+          time_zone: UTC

@@ -1,0 +1,15 @@
+
+# ==============================================================================
+# <tipo>(<escopo>): <título curto no presente, até ~72 caracteres, EM PORTUGUÊS> (HUxx)
+#
+# Tipos:   feat | fix | docs | style | refactor | test | chore | perf
+# Escopos: setup | auth | exercicios | rotinas | treinos | series | historico |
+#          corpo | inicio | deploy | ci | deps | planejamento
+#
+# Exemplo: feat(treinos): exibe o desempenho anterior da mesma rotina (HU06)
+# ==============================================================================
+
+# [Corpo - opcional]: o MOTIVO da mudança (o porquê, não o como)
+
+# [Rodapé - opcional]: referência à HU
+# Ref: HU06
